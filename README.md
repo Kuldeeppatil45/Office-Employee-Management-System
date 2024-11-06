@@ -18,7 +18,7 @@ The user interface is crafted using modern web technologies, including **HTML**,
 
 ## Setup Instructions:
 1. Clone the repository:
-   git clone https://github.com/Kuldeeppatil45/Office-Employee-Management-System.git
+   git clone https://github.com/Your-name/Office-Employee-Management-System.git
 
 2. Install the necessary dependencies:
   pip install -r requirements.txt
